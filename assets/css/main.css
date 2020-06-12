@@ -646,6 +646,7 @@ footer .footer-custom-content {
   }
   .intro-header .page-heading h1 {
     font-size: 5rem;
+    font-weight: 500;
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;
