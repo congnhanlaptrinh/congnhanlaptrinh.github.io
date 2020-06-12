@@ -4,13 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Tôi quê ở miền Tây vốn xuất thân là nông dân, thuở thiếu thời lấy cuốc đất nhổ cỏ làm niềm vui, tối về soi cá bắt ếch làm nguồn sống. Những năm gần đây vì tốc độ công nghiệp hóa hiện đại hóa quá nhanh cộng với thời đại 4.0 đã lan tỏa đến vùng quê yên bình nên tôi khăn gói lên Sài Gòn xoay nghề làm thợ gõ bàn phím mưu sinh độ nhật.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Trải qua nhiều năm tháng làm thuê: chui gầm bàn bấm cáp mạng, leo tường gắn camera, sửa máy in, cài win dạo, giờ tôi làm mướn cho một xí nghiệp sản xuất phần mềm.
 
-What else do you need?
+Sáng sáng, chuông báo thức điện thoại reo thì tôi lập tức bay ra khỏi chiếc chiếu, vớ lấy cái quần rồi chạy bán sống bán chết tới xí nghiệp, rủi trễ 1 giây thì coi như toang cả ngày hôm đấy!
 
-### my history
+### Lý do tại sao có blog này
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Đại khái là từ nông dân dưới quê lên tới được Sài Gòn để làm công nhân là một quá trình, và bây giờ tôi đã quá mệt mỏi với kiếp công nhân này nên tôi nghĩ tôi sắp bước vào một hành trình mới. Đây là chỗ để tôi có thể ghi lại hành trình đó.
