@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Đời tôi
+subtitle: Bao nhiêu năm rồi làm mãi không dư. Loay hoay tính toán cho đời mỏi mệt.
 ---
 
 Tôi quê ở miền Tây vốn xuất thân là nông dân, thuở thiếu thời lấy cuốc đất nhổ cỏ làm niềm vui, tối về soi cá bắt ếch làm nguồn sống. Những năm gần đây vì tốc độ công nghiệp hóa hiện đại hóa quá nhanh cộng với thời đại 4.0 đã lan tỏa đến vùng quê yên bình nên tôi khăn gói lên Sài Gòn xoay nghề làm thợ gõ bàn phím mưu sinh độ nhật.
